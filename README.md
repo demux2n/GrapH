@@ -1,6 +1,6 @@
 ## GrapH
 
-A simple way to view relationships on GitHub. 
+A simple way to view relationships on GitHub. Not at all an original idea.
 
 # Installation
 
