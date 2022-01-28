@@ -1,7 +1,7 @@
 #!/usr/bin/python3 
 
 import requests
-from private import token as apikey
+from secret import token as apikey
 # token='YOURAPIKEY'
 
 url  = 'https://api.github.com/users/'
